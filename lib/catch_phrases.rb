@@ -14,6 +14,6 @@ def link
   puts phase
 end
 
-def any_phrase(phase)
-  p phase
+def any_phrase(phrase)
+  puts phrase
 end
