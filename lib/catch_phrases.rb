@@ -15,5 +15,5 @@ def link
 end
 
 def any_phase(phase)
-  puts phase
+  p phase
 end
